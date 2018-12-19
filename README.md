@@ -84,7 +84,7 @@ Objective C
 NSArray * whatsPlaying = [[AdamAudioPlayer shared] whatsPlaying];
 
 // Check one file is playing ? Returns a bool.
-BOOL isMySoundPlaying [[AdamAudioPlayer shared] isPlayingWithIdentifier:"mySound"]];
+BOOL isMySoundPlaying = [[AdamAudioPlayer shared] isPlayingWithIdentifier:"mySound"]];
 ```
 
 ## Volume Control
