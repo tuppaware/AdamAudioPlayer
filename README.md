@@ -1,5 +1,5 @@
 # AdamAudioPlayer
-A swift based audio player that lets you easily manage multiple files at once using AVFoundation and a simple sington instance. Makes it easy to play/pause and stop files. Its very beta at the moment.
+A swift based audio player that lets you easily manage multiple files at once using AVFoundation and a simple singleton instance. Makes it easy to play/pause and stop files. Its very beta at the moment.
 
 ## Installation
 Download, drag into your xcode project (pod coming soon).
